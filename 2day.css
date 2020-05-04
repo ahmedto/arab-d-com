@@ -18,7 +18,7 @@
 {
 	width: 150px;
 	background-color:#182d5d;
-		background-image: url('http://i56.servimg.com/u/f56/18/63/84/73/arrow10.png');
+		background-image: url('https://i55.servimg.com/u/f55/18/83/28/90/arrow110.png');
 	background-position: center top ;
 	background-repeat: no-repeat ;
 	-webkit-box-shadow: inset -3px 0px 3px 1px #122145;
@@ -368,36 +368,36 @@ box-shadow: inset 0px 1px 2px 0px #000000;
 }
 .facebook
 {
-	background: url('http://i56.servimg.com/u/f56/18/63/84/73/facebo10.png') no-repeat center center; transition: 0.2s;
+	background: url('https://i55.servimg.com/u/f55/18/83/28/90/facebo10.png') no-repeat center center; transition: 0.2s;
 }
 .twitter
 {
-	background: url('http://i56.servimg.com/u/f56/18/63/84/73/twitte10.png') no-repeat center center;transition: 0.2s;
+	background: url('https://i55.servimg.com/u/f55/18/83/28/90/twitte10.png') no-repeat center center;transition: 0.2s;
 }
 .insta
 {
-	background: url('http://i56.servimg.com/u/f56/18/63/84/73/pin110.png') no-repeat center center;transition: 0.2s;
+	background: url('https://i55.servimg.com/u/f55/18/83/28/90/pin11010.png') no-repeat center center;transition: 0.2s;
 }
 
 .QR
 {
-	background: url('http://i56.servimg.com/u/f56/18/63/84/73/qr110.png') no-repeat center center;transition: 0.2s;
+	background: url('https://i55.servimg.com/u/f55/18/83/28/90/qr11010.png') no-repeat center center;transition: 0.2s;
 }
 .facebook:hover
 {
-	background: url('http://i56.servimg.com/u/f56/18/63/84/73/facebo11.png') no-repeat center center; 
+	background: url('https://i55.servimg.com/u/f55/18/83/28/90/facebo11.png') no-repeat center center; 
 }
 .twitter:hover
 {
-	background: url('http://i56.servimg.com/u/f56/18/63/84/73/twitte11.png') no-repeat center center;
+	background: url('https://i55.servimg.com/u/f55/18/83/28/90/twitte11.png') no-repeat center center;
 }
 .insta:hover
 {
-	background: url('http://i56.servimg.com/u/f56/18/63/84/73/pin10.png') no-repeat center center;
+	background: url('https://i55.servimg.com/u/f55/18/83/28/90/pin1010.png') no-repeat center center;
 }
 
 .QR:hover
 {
-	background: url('http://i56.servimg.com/u/f56/18/63/84/73/qr10.png') no-repeat center center;
+	background: url('https://i55.servimg.com/u/f55/18/83/28/90/qr1010.png') no-repeat center center;
 }
 
