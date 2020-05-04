@@ -1,0 +1,149 @@
+/*a7medvirus Tutorial*/
+    .code{
+  background:#F5F5F5 url(http://i16.servimg.com/u/f16/15/04/02/38/page_w10.png)6px 6px no-repeat;
+    max-height: 200px;
+      overflow: auto;
+      direction: ltr;
+        display: block;
+    }   
+/*by: Traid web*/
+A:link {text-decoration: none; color: }
+A:visited {text-decoration: none; color: }
+A:active {text-decoration: none; color: }
+A:hover {text-decoration: none; color: } 
+
+.quote{-moz-border-radius:7px;-webkit-border-radius:7px;background:#F5F5F5 url(http://i16.servimg.com/u/f16/15/04/02/38/quote_10.png)6px 6px no-repeat;background-color:#ededed;border:1px solid #C3C3C3;border-radius:7px;border-style:solid;border-width:1px;box-shadow:inset 0 0 7px 4px#e8e8e8;color:#000;font-family:Tahoma,Arial,Helvetica,sans-serif;font-size:12px;line-height:125%;overflow:hidden}
+
+  /* ﬂÊœ «· Õﬂ„ »ÕÃ„ «·„Ê«÷Ì⁄ Ê«·„‘«—ﬂ«  */
+.postbody{
+font-size: 18px;
+
+font-weight: bold;
+font-family:
+ Traditional Arabic;
+}
+#avatar img{
+max-height: 27px;
+max-width:  27px;
+border:  1px solid #4F4F4F;
+border-radius: 4px;    }
+
+#a7la55-avatar img{
+max-height: 22px;
+max-width:  22px;
+      float:right;
+border:  1px solid #4F4F4F;
+border-radius: 4px;   
+    }
+.AVATAR img {
+        height: 220px;
+        width: 165px;
+    }
+
+.a7la7ekaya img {
+        height: 100px;
+        width: 100px;
+    }
+.os2 img {
+        height: 150px;
+        width: 149px;
+    }
+.post_field img {
+        height: 20px;
+        width: px;
+    }
+
+.ahla7ekaya img {
+        height: 500px;
+        width: 500px;
+    }
+
+#a7la88-avatar img{
+max-height: 30px;
+max-width:  30px;
+      float:right;
+border:  1px solid #4F4F4F;
+border-radius: 4px;   
+    }  
+  .gowetobilobed-offlinebutton {
+background-color:transparent;
+background-image:url("http://i66.servimg.com/u/f66/11/66/00/43/user_o11.gif");
+background-position:center center;
+background-repeat:no-repeat;
+border:medium none;
+height:«— ›«⁄ «·«ÌﬁÊ‰…px;
+min-height:«— ›«⁄ «·«ÌﬁÊ‰…px;
+min-width:⁄—÷ «·«ÌﬁÊ‰…px;
+width:⁄—÷ «·«ÌﬁÊ‰…px;
+}
+
+ 
+ #mainmenu{display:none!important;visibility:hidden!important}
+.offlinebutton{background-color:transparent;background-image:url(http://i66.servimg.com/u/f66/11/66/00/43/user_o11.gif);background-position:center center;background-repeat:no-repeat;border:medium none;height:50px;min-height:50px;min-width:50px;width:50px}
+
+
+/*-----Programming code byMahmoud TalaaT& sam hameed-----*/
+    #lbOverlay{
+      position:fixed;z-index: 999;
+      left:0;
+      top:0;
+      width:100%;
+      height:100%;
+      Mahmoud TalaaT;
+      background-color:#000;
+      cursor:pointer;
+    }
+    #lbCenter,#lbBottomContainer{
+      position:absolute;
+    Mahmoud TalaaT;
+      z-index: 999;overflow:hidden;
+      background-color:#fff;
+    }
+    .lbLoading{
+      background:#fff url(http://i27.servimg.com/u/f27/14/67/90/38/novfao10.gif) no-repeat center;
+    }
+    #lbImage{
+      position:absolute;left:0;top:0;border:10px solid #fff;background-repeat:no-repeat;}
+    #lbPrevLink,#lbNextLink{
+      display:block;
+    Mahmoud TalaaT;
+      position:absolute;
+      top:0;
+      width:50%;
+      outline:none;
+    }
+    #lbPrevLink{
+      left:0;
+    }
+    #lbPrevLink:hover{
+      background:transparent url(http://i41.servimg.com/u/f41/14/81/17/27/211.png) no-repeat 0 15%;
+    }
+    #lbNextLink{
+      right:0;}
+    #lbNextLink:hover{
+      background:transparent url(http://i41.servimg.com/u/f41/14/81/17/27/310.png) no-repeat 100% 15%;
+    }
+    #lbBottom{
+      font-family:Verdana, Arial, Geneva, Helvetica, sans-serif;font-size:10px;color:#666;line-height:1.4em;
+      text-align:left;
+      Mahmoud TalaaT;
+      border:10px solid #fff;
+      border-top-style:none;
+    }
+    #lbCloseLink{
+      display:block;
+      float:right;
+      Mahmoud TalaaT;
+      width:66px;height:22px;
+      background:transparent url(http://i41.servimg.com/u/f41/14/81/17/27/110.png) no-repeat center;
+      outline:none;
+      Mahmoud TalaaT;
+      margin:5px 0;
+    }
+    #lbCaption,#lbNumber{
+      margin-right:71px;
+    }
+    .postbody img{
+      max-width:450px;
+    }
+    /*-----Programming code byMahmoudTalaat&samhamed-----*/
